@@ -1,6 +1,6 @@
 # Timebuddy
 
-A simple python script to calculate time-related data based on a CSV input of a name followed by said persons availabilities. Developed for UMass Transit purposes, but can surve a larger majority for the same reason.
+A simple python script to calculate time-related data based on a CSV input of a name followed by said persons availabilities. Developed for UMass Transit purposes, but can serve a larger majority for the same reason.
 
 ### Requirements
 
